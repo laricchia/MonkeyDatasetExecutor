@@ -1,0 +1,2 @@
+def waitForConnection():
+    return True
